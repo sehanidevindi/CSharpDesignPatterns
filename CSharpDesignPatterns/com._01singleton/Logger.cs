@@ -16,6 +16,8 @@ namespace CSharpDesignPatterns.com._01singleton
 		{
 			if (logger == null)
 			{
+
+
 				logger = new Logger();
 
 			}
